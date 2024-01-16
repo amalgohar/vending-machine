@@ -1,4 +1,4 @@
-# Vending-Machine
+# Vending Machine
 
 ## Description
 This repository contains a Java program that mimics the use of a vending machine by collecting the number of sales and keeping track of inventory. A `Slot` object is defined for and has properties such as slot identifier, item name, item price, amount in inventory, and the amount sold. It also tracks the total number of slots and total earnings. 
