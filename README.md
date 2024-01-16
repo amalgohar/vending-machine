@@ -11,3 +11,19 @@ This repository contains a Java program that mimics the use of a vending machine
 1. Compile both Slot.java and SlotImplementation.java.
 2. Run the SlotImplementation class.
 3. Follow the menu prompts to interact with the vending machine simulation.
+
+## Demo 
+### Option 1: Add Slot
+  ![](https://github.com/amalgohar/vending-machine/blob/main/AddSlot.gif)
+
+### Option 2: Empty Slot  
+  ![](https://github.com/amalgohar/vending-machine/blob/main/EmptySlot.gif)
+  
+### Option 3: Purchase Item
+  ![](https://github.com/amalgohar/vending-machine/blob/main/PurchaseItem.gif)
+
+### Option 4: Display Items
+  ![](https://github.com/amalgohar/vending-machine/blob/main/DisplayItems.gif)
+  
+### Option 5: Exit
+  ![](https://github.com/amalgohar/vending-machine/blob/main/Exit.gif)
