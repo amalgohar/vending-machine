@@ -1,6 +1,4 @@
-# 🍬 Vending Machine
-
-## ✍️ Description
+# 🍬 Virtual Vending Machine
 This repository contains a Java program that mimics the use of a vending machine by collecting the number of sales and keeping track of inventory. A `Slot` object is defined for and has properties such as slot identifier, item name, item price, amount in inventory, and the amount sold. It also tracks the total number of slots and total earnings. 
 
 ## 📝 Breakdown & Usage
@@ -30,5 +28,5 @@ This repository contains a Java program that mimics the use of a vending machine
   ![](https://github.com/amalgohar/vending-machine/blob/main/demo-gifs/DisplayItems.gif)
   
 ### Option 5: Exit
-  The user can exit the program when finished and see a short summary that shows the total number of slot items entered during the duration of the program (including slots that may have been empties), as well as the total amount of money that the vending machine earned based on items purchased.
+  The user can exit the program when finished and see a short summary that shows the total number of slot items entered during the duration of the program (including slots that may have been emptied), as well as the total amount of money that the vending machine earned based on items purchased.
   ![](https://github.com/amalgohar/vending-machine/blob/main/demo-gifs/Exit.gif)
